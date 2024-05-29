@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unit Converter App</string>
+    <string name="enter_value">Enter value</string>
+    <string name="convert">Convert</string>
+    <string-array name="units_array">
+        <item>Meter</item>
+        <item>Inch</item>
+        <item>Foot</item>
+        her units as needed -->
+    </string-array>
+</resources>
